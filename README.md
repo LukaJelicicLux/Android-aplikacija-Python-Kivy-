@@ -1,0 +1,1 @@
+Android aplikacija (Python Kivy)
